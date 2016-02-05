@@ -1,0 +1,5 @@
+E:\C# Project\Tasks from chapter  14\Student_14\Student_14\bin\Release\Student_14.exe
+E:\C# Project\Tasks from chapter  14\Student_14\Student_14\bin\Release\Student_14.pdb
+E:\C# Project\Tasks from chapter  14\Student_14\Student_14\obj\x86\Release\ResolveAssemblyReference.cache
+E:\C# Project\Tasks from chapter  14\Student_14\Student_14\obj\x86\Release\Student_14.exe
+E:\C# Project\Tasks from chapter  14\Student_14\Student_14\obj\x86\Release\Student_14.pdb
